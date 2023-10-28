@@ -8,9 +8,10 @@ Detailes stored are: Dim_manufacturer, Dim_model, Dim_customer, Dim_Location and
 
 The first four store entries for the respective elements and Fact_Transactions stores all the information about sales of specific cellphones
 
-# Data Availabilty
+# Data Availability
 Create a database based on Create_Database_and_Tables.sql file
 
+# Business Questions
 Write queries to find out the following:
 
 1. List all the states in which we have customers who have bought cellphones from 2005 till today.
